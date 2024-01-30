@@ -3,12 +3,12 @@
 
 This repository contains:
 
--Labs
+- Labs
 
--Pre-labs
+- Pre-labs
 
--Notes
+- Notes
 
--Practice Programs
+- Practice Programs
 
 Or anything else I may need to create for this course.
